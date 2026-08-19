@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Flask
+instance/
+.flaskenv
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Env vars / secrets
+.env
+
+# Output data
+*.csv
